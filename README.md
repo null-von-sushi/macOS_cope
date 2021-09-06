@@ -22,3 +22,6 @@ OneDrive's official client is alright, if that's what you wanna use.
 # Top Bar
 Get [Hidden bar](https://github.com/dwarvesf/hidden)
 
+# Alt-Tab (well, ⌘-Tab)
+Get [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/)
+
