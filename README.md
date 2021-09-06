@@ -1,6 +1,13 @@
 # macOS_cope
 How to deal with macOS
 
+# Apple shit
+Still a WIP. 
+## iMessage
+You can temporarily (because it automagically comes back it seems) deregister iMessage from the share menu by running `/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -R -f -u /System/Applications/Messages.app`. This works on any system. A more permanent solution would be to delete iMessage (or rather, move it to a .dmg so you have a backup). For this, you will need to disable System Integrity Protection.
+
+# SIP
+[This tool](https://github.com/fxgst/writeable_root) is pretty useful for mounting rootfs as writable on Big Sur or higher...
 
 # Finder
 Download [XtraFinder](https://www.trankynam.com/xtrafinder/). This will allow normal things like Cut+Paste to work...
