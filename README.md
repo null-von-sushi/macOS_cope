@@ -25,3 +25,8 @@ Get [Hidden bar](https://github.com/dwarvesf/hidden)
 # Alt-Tab (well, ⌘-Tab)
 Get [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/)
 
+# 7-Zip alternative
+Either [The Unarchiver](https://macpaw.com/the-unarchiver) to replace macOS built-in unarchiver, or maybe [Keka](https://www.keka.io/en/)
+
+# Clipboard Manager
+[Maccy](https://maccy.app/) is FLOSS (download page is pay-what-you-want)
