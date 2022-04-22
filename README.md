@@ -40,3 +40,12 @@ Either [The Unarchiver](https://macpaw.com/the-unarchiver) to replace macOS buil
 
 # Aero Snap
 [Rectangle](https://rectangleapp.com/)
+
+# Security
+## Full disk encryption without login password
+ - Make two users, `macOS` and `bob` (any names will do)
+ - Make the `macOS` user password the password you want to use for FDE.
+ - Set any random password you want for `bob`. This will be your password after FDE is unlocked.
+ - Encrypt the system, and then run `sudo fdesetup remove -user bob` and `sudo dscl . create /Users/macOS IsHidden 1`.
+ - Run `pwpolicy -u macOS disableuser`
+ - Log out of `macOS` and log into `bob`, then reboot. 
