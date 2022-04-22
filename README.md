@@ -17,16 +17,26 @@ Karabiner Elements
 
 # Cloud Storage
 Mountain Duck is honestly your best bet. Google Drive is especially shit, with all the extra unnecessary shortcuts. 
-OneDrive's official client is alright, if that's what you wanna use.
+OneDrive's official client is alright too, if that's what you wanna use.
 
 # Top Bar
 Get [Hidden bar](https://github.com/dwarvesf/hidden)
 
 # Alt-Tab (well, ⌘-Tab)
-Get [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/)
+~~Get [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/)~~~~ [AltTab](https://alt-tab-macos.netlify.app/) is free, but needs a minute or two to customize the settings. It's not hard though. 
+[Contexts 3](https://contexts.co/) seems cool but is also paid software.
 
 # 7-Zip alternative
 Either [The Unarchiver](https://macpaw.com/the-unarchiver) to replace macOS built-in unarchiver, or maybe [Keka](https://www.keka.io/en/)
 
 # Clipboard Manager
 [Maccy](https://maccy.app/) is FLOSS (download page is pay-what-you-want)
+
+# Middle Click
+[MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur)
+
+# Dock
+[IntelliDock](https://mightymac.app/intellidock/) provides IntelliHide for the macOS dock
+
+# Aero Snap
+[Rectangle](https://rectangleapp.com/)
