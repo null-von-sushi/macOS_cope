@@ -35,6 +35,9 @@ Either [The Unarchiver](https://macpaw.com/the-unarchiver) to replace macOS buil
 # Middle Click
 [MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur)
 
+# Retarded scrolling behaviour
+[https://github.com/ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
+
 # Dock
 [IntelliDock](https://mightymac.app/intellidock/) provides IntelliHide for the macOS dock
 
