@@ -1,8 +1,6 @@
 # macOS_cope
-How to deal with macOS
+List of recources on how to deal with macOS and make it somewhat usable.
 
-# Apple shit
-Still a WIP. 
 ## iMessage
 You can temporarily (because it automagically comes back it seems) deregister iMessage from the share menu by running `/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -R -f -u /System/Applications/Messages.app`. This works on any system. A more permanent solution would be to delete iMessage (or rather, move it to a .dmg so you have a backup). For this, you will need to disable System Integrity Protection.
 
@@ -35,7 +33,7 @@ Either [The Unarchiver](https://macpaw.com/the-unarchiver) to replace macOS buil
 # Middle Click
 [MiddleClick-BigSur](https://github.com/artginzburg/MiddleClick-BigSur)
 
-# Retarded scrolling behaviour
+# Fix scrolling behaviour
 [https://github.com/ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 
 # Dock
