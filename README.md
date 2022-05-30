@@ -21,7 +21,7 @@ OneDrive's official client is alright too, if that's what you wanna use.
 Get [Hidden bar](https://github.com/dwarvesf/hidden)
 
 # Alt-Tab (well, ⌘-Tab)
-~~Get [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/)~~~~ [AltTab](https://alt-tab-macos.netlify.app/) is free, but needs a minute or two to customize the settings. It's not hard though. 
+~~Get [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/)~~ [AltTab](https://alt-tab-macos.netlify.app/) is free, but needs a minute or two to customize the settings. It's not hard though. 
 [Contexts 3](https://contexts.co/) seems cool but is also paid software.
 
 # 7-Zip alternative
