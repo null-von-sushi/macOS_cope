@@ -42,6 +42,10 @@ Either [The Unarchiver](https://macpaw.com/the-unarchiver) to replace macOS buil
 # Aero Snap
 [Rectangle](https://rectangleapp.com/)
 
+# Maximizing
+[right zoom](https://download.cnet.com/Right-Zoom/3000-18487_4-10909444.html)
+
+
 # Security
 ## Full disk encryption without login password
  - Make two users, `macOS` and `bob` (any names will do)
